@@ -57,8 +57,8 @@ Mistral: Mistral Small 3.2 24B (free)
 
 ## Limitations
 
-- The LLM is not perfect and may occasionally generate incorrect or irrelevant responses.
 - This is a simple example and does not include error handling or robustness.
+- This supports only text chunks and does not support data of other modalities.
 
 ## Read the blog post
 
