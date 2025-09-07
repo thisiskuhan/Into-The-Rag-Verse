@@ -1,4 +1,4 @@
-# Into the RAG Verse 📚✨
+# Into the RAG Verse ✨
 
 This blog series takes you through the ins and outs of **LLMs (Large Language Models)**, **RAG (Retrieval-Augmented Generation)**, and the wider ecosystem around them — Every Thursday!
 
@@ -31,7 +31,7 @@ There are more advanced variations and concepts in RAG that I’ll cover in futu
 
 If you find any errors or discrepancies in the content, feel free to reach out. I’m always happy to improve and make learning easier for everyone.
 
-Until then — happy learning! 🚀
+Until then — happy learning :)
 
 ---
 
