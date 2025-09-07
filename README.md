@@ -2,7 +2,7 @@
 
 This blog series takes you through the ins and outs of **LLMs (Large Language Models)**, **RAG (Retrieval-Augmented Generation)**, and the wider ecosystem around them — Every Thursday!
 
-![Into the RAG Verse](Into-The-Rag-Verse/assets/hero.jpg)
+![Into the RAG Verse](assets/hero.jpg)
 
 ## 📖 Read the Blog Post
 
