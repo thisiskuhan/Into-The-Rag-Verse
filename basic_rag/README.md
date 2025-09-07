@@ -62,7 +62,7 @@ Mistral: Mistral Small 3.2 24B (free)
 
 ## Read the blog post
 
-Check out the (blog post)[https://medium.com/@thisiskuhan/into-the-rag-verse-the-origin-and-the-why-0b80350d1e17] for in depth explanation on RAG.
+Check out the [blog post](https://medium.com/@thisiskuhan/into-the-rag-verse-the-origin-and-the-why-0b80350d1e17) for in depth explanation on RAG.
 
 ## Author
 
