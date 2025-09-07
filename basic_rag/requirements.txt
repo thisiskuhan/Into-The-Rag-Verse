@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+bs4
+pymupdf4llm
+python-multipart
+openai
+qdrant-client
+sentence-transformers
